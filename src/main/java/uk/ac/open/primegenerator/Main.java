@@ -3,7 +3,7 @@ package uk.ac.open.primegenerator;
 public class Main {
 
     public int generatePrime() {
-        return 13;
+        return 1;
     }
 
     public static void main(String[] args) {
